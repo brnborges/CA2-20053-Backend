@@ -9,7 +9,7 @@ Bootstrapped with Create React App
 
 In the project directory, you can run:
 
-### `npm install` Obs: you must install npm in those folders "CA2-Backend" and "backend"
+### `npm install` Obs: you must install npm in main folder and "backend"
 ### `npm start`
 
 Runs the app in the development mode.\
