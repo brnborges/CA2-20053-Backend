@@ -20,6 +20,6 @@ You will also see any lint errors in the console.
 
 ## Screenshots
 
-![Alt text]https://github.com/brnborges/CA2-20053-Backend/blob/master/screenshot.jpeg
+![Alt text](https://github.com/brnborges/CA2-20053-Backend/blob/master/screenshot.jpeg)
 
-![Alt text]https://github.com/brnborges/CA2-20053-Backend/blob/master/screenshot1.jpeg
+![Alt text](https://github.com/brnborges/CA2-20053-Backend/blob/master/screenshot1.jpeg)
